@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Happycally
+- 👋 Hi, I’m @okeke Anurika Happiness 
 - 👀 I’m interested in Learning programmings
 - 🌱 I’m currently learning flowchart and psedocode
 - 💞️ I’m looking to collaborate on data analysing
